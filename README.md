@@ -2,7 +2,9 @@
 
 ## Project Overview
 Enhancing NLI Models is a project designed to improve Natural Language Inference (NLI) systems using the SNLI dataset and pre-trained RoBERTa models. It automates hypothesis generation, identifies incorrect predictions, filters data, and visualizes datasets with statistical insights.
-![Workflow Diagram](flow_dia.png)
+
+<img src="flow_dia.png" alt="Workflow Diagram" width="400"/>
+
 This project is part of the paper titled "Enhancing NLI Models With an Adversarial LLM Approach". Below is the abstract of the paper:
 ## Abstract
 
